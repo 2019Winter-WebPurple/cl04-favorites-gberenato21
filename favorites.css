@@ -1,0 +1,18 @@
+/*
+* Grace Berenato
+* 26 March 2019
+* My Favorite Things Images 
+*/
+
+
+body {   
+}
+
+img { width: 300px; 
+    height: 200px}
+
+    img #puppies { width: 300px; height: 200px;}    
+    img #beach { width: 300px; height: 200px;}
+    img #vanilla { width: 300px; height 200px;}
+
+figure {float:right;} /*figures*/
